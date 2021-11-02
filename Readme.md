@@ -14,6 +14,6 @@ A Movie App developed using PERN stack which consists of following functionality
 ![view-more](https://user-images.githubusercontent.com/93177495/139779188-2865d390-d604-43c9-9a03-1032c8a38ec9.PNG)
 ## Languages used
 1.  Javascript
-2.  Sql
+2.  Sql 
 3.  HTML
 4.  CSS
